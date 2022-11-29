@@ -1,1 +1,1 @@
-# 1-przyk-ad-Planu
+# 1-przykladowy plan testu
