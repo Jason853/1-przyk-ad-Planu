@@ -1,3 +1,1 @@
-Witam,jestem Tomasz a to moje skromne portfolio, które zacząłem tworzyć na początku mojej drogi testera. 
-W miare upłwyu czasu będę tu dodować nowe dokumenty mające na celu pokazać moje zaangażowanie oraz determinację w rozpoczęciu kariery testera manulanego.
-Rekruterów zachęcam do przejrzenia. :) Pozdrawiam
+Witam,jestem Tomasz a to moje skromne portfolio, które zacząłem tworzyć na początku mojej drogi testera.                          W miare upłwyu czasu będę tu dodować nowe dokumenty mające na celu pokazać moje zaangażowanie oraz determinację w rozpoczęciu kariery testera manulanego. Rekruterów zachęcam do przejrzenia. :) Pozdrawiam
